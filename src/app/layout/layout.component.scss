@@ -1,0 +1,45 @@
+.gauche{
+    float: left;
+}
+
+.droite{
+    float: right;
+}
+
+.nom{
+    font-size: 50px;
+    text-align: center;
+    margin-top: -44px;
+    background-color: red   ;
+}
+
+.adresse{
+    text-align: center;
+    margin-top: -44px;
+}
+
+.titre{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.curri {
+    background-color: #22c0e8;
+    color: white;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+.cursus {
+    border: 1px solid;
+    margin-bottom: 50px;
+    background-color: #22c0e8;
+    color: white;
+    border-radius: 5px;
+    margin-top: 50px;
+
+}
+
+.curri:hover {
+    transform: scale(1.07);
+}
